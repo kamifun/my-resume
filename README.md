@@ -3,6 +3,7 @@
 现居广州,目前在益达教育科技有限公司担任前端工程师
 * Github: [victor-vt](https://github.com/victor-vt/)
 * 联系方式: [victor409097677@gmail.com](mailto:victor409097677@gmail.com) 或者 [409097677@qq.com](mailto:409097677@qq.com)
+* 简书: [不二周助vt](http://www.jianshu.com/users/f5772f45bf34/latest_articles)
 
 ## 技能
 #### Web前端
