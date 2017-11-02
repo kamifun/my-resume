@@ -1,6 +1,6 @@
 # 简历
 ## 概括
-现居广州,目前在益达教育科技有限公司担任前端工程师
+现居广州,目前在广州天健软件有限公司担任前端工程师
 * Github: [kamifun](https://github.com/kamifun/)
 * 联系方式: [kamifun409097677@gmail.com](mailto:kamifun409097677@gmail.com) 或者 [kamifun@qq.com](mailto:kamifun@qq.com)
 * 简书: [kamifun](http://www.jianshu.com/users/f5772f45bf34/latest_articles)
@@ -32,4 +32,5 @@
 * 性格暖
 
 ## 经历
-* 广州益达教育科技有限公司 前端工程师(2015年9月-至今)
+* 广州益达教育科技有限公司 前端工程师(2015年9月-2017年2月)
+* 广州天健软件有限公司 前端工程师(2017年3月-至今)
